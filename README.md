@@ -1,4 +1,4 @@
-# English App Server
+# LED Control Server
 
 ## Getting Started
 
@@ -18,4 +18,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Application: 
-[English App Flutter](https://github.com/dinkmsd/CodeDao_Project.git)
